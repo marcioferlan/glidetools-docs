@@ -1,4 +1,4 @@
-# App Layout <small>// nav-bars</small>
+# App Layout <sub>// nav-bars</sub>
 Permite ocultar as opções de navegação do app
 
 **URL base**
