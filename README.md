@@ -1,5 +1,7 @@
 # GlideTools 
-`< Extend your Glide apps! />`
+```html
+</> Extend your Glide apps!
+```
 
 ## Apresentação
 
