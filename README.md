@@ -1,4 +1,4 @@
-# GlideTools <small>// Extend your Glide apps!</small>
+# GlideTools <sub>// Extend your Glide apps!</sub>
 
 ## Apresentação
 
