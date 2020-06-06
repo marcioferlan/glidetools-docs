@@ -20,12 +20,12 @@ Permite customizar os controles da tela de inclusão.
 
 **Exemplos:**
 
-- Centraliza e altera o texto do título da tela
+- Centralizar e alterar o título da tela
 ```css
-@import '//glidetools.ml/app-layout/addScreen?centerTitle&title=Adicionar Produto'
+@import '//glidetools.ml/app-layout/add-screen?centerTitle&title=Adicionar Produto'
 ```
 
-- Oculta o botão Cancelar e muda o texto do botão Adicionar
+- Ocultar o botão Cancelar e mudar o texto do botão Adicionar
 ```css
 @import '//glidetools.ml/app-layout/addScreen?hideCancel&addLabel=Salvar'
 ```
