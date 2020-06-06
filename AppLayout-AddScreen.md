@@ -1,4 +1,6 @@
-# App Layout <sub>// Add Screen </sub>
+# App Layout 
+### Add Screen
+
 Permite customizar os controles da tela de inclusão.
 
 **URL base**
