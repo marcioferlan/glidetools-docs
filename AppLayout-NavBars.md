@@ -1,6 +1,6 @@
 # App Layout
 
-### nav-bars
+### app-layout/nav-bars
 Permite ocultar as opções de navegação do app
 
 **URL base**
